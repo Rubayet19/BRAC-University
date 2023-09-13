@@ -1,0 +1,16 @@
+#include <iostream>
+#include <string>
+
+int main() {
+    int age = 30;
+    double gpa = 3.8;
+    std::string name = "Alice";
+
+    std::cout << "Name: " << name << std::endl;
+    std::cout << "Age: " << age << std::endl;
+    std::cout << "GPA: " << gpa << std::endl;
+
+    return 0;
+}
+
+
